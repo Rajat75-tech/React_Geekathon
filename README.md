@@ -2,7 +2,7 @@
 
 This is a **CodePen Editor Clone** built using **React** and **Firebase**. The app allows users to sign up and log in using Google or GitHub, edit HTML, CSS, and JavaScript code in a real-time code editor, and preview the output instantly. It aims to replicate some of the core functionalities of the popular **CodePen** editor.
 
-[Live Demo](https://code-pen-clone-react-aniket.vercel.app/)
+[Live Demo](https://react-geekathon-rajat75-techs-projects.vercel.app/)
 
 ## Features
 
